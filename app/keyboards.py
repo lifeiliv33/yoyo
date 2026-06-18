@@ -32,14 +32,8 @@ def build_inline_menu() -> types.InlineKeyboardMarkup:
 
 def build_social_keyboard() -> types.InlineKeyboardMarkup:
     keyboard = types.InlineKeyboardMarkup(row_width=2)
-    keyboard.add(
-        types.InlineKeyboardButton('⚔️ Баттлы', callback_data='social_battles'),
-        types.InlineKeyboardButton('👥 Кланы', callback_data='social_clans'),
-    )
-    keyboard.add(
-        types.InlineKeyboardButton('🏪 Рынок', callback_data='social_market'),
-        types.InlineKeyboardButton('🔨 Аукцион', callback_data='social_auction'),
-    )
+    keyboard.add(types.InlineKeyboardButton('👥 Кланы', callback_data='social_clans'))
+    keyboard.add(types.InlineKeyboardButton('🔨 Аукцион', callback_data='social_auction'))
     keyboard.add(types.InlineKeyboardButton('🔄 Обменять карту', callback_data='menu_trade'))
     keyboard.add(types.InlineKeyboardButton('⬅️ Назад в меню', callback_data='menu_back'))
     return keyboard
