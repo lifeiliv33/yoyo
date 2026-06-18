@@ -136,7 +136,7 @@ CARD_IMAGES: dict[tuple[str, str], str] = {
     ('17 SEVENTEEN', 'Две тысячи семнадцатый'): 'assets/2017.png',
     ('17 SEVENTEEN, Sqwore', 'BOO!'): 'assets/boo.png',
     ('17 SEVENTEEN', 'Гипнофобия'): 'assets/gipnofobia.png',
-    ('17 SEVENTEEN', 'Конфетка'): 'assets/konfetka.png',
+    ('17 SEVENTEEN', 'Конфетка'): 'assets/konfetka.jpg',
     ('17 SEVENTEEN', 'Мы Смеялись Никто Не Понял'): 'assets/msmeyalis.png',
     ('17 SEVENTEEN', 'Песочный человек'): 'assets/peshocniy.png',
 }
