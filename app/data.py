@@ -122,7 +122,7 @@ CARD_IMAGES: dict[tuple[str, str], str] = {
     ('Kai Angel', 'lovesong'): 'assets/lovesong.jpg',
     ('Kai Angel', 'limousine music'): 'assets/limousine.png',
     ('Kai Angel', 'quiet turn up'): 'assets/quietturnup.png',
-    ('madk1d', 'Круче чем вы'): 'assets/kruche.png',
+    ('madk1d', 'Круче чем вы'): 'assets/kruche.jpg',
     ('Kai Angel', 'quiet turn up'): 'assets/quietturnup.png',
     ('rizza', 'Мёртвые мысли'): 'assets/mertviemisly.png',
     ('rizza', '626'): 'assets/626.png',
