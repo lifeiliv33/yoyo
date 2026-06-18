@@ -109,6 +109,7 @@ CARD_IMAGES: dict[tuple[str, str], str] = {
     ('Sqwore', 'Life of a emorapstar'): 'assets/emorapstar.png',
     ('Sqwore', 'eve'): 'assets/eve.png',
     ('Sqwore', 'eve 2'): 'assets/eve2.png',
+    ('Sqwore', 'Холодное оружие'): 'assets/holodgun.png',
     ('Kai Angel', 'GOD SYSTEM'): 'assets/godsystem.png',
     ('madk1d', 'Он сказал поехали!'): 'assets/poekhali.png',
     ('madk1d', 'Толпы'): 'assets/tolpy.png',
@@ -139,4 +140,6 @@ CARD_IMAGES: dict[tuple[str, str], str] = {
     ('17 SEVENTEEN', 'Конфетка'): 'assets/konfetka.jpg',
     ('17 SEVENTEEN', 'Мы Смеялись Никто Не Понял'): 'assets/msmeyalis.png',
     ('17 SEVENTEEN', 'Песочный человек'): 'assets/peshocniy.png',
+    ('17 SEVENTEEN, Sqwore', 'Как я провела лето'): 'assets/kakyaleto.jpg',
+    ('Sqwore, 17 SEVENTEEN', 'Как я провела лето'): 'assets/kakyaleto.jpg',
 }
