@@ -134,6 +134,7 @@ CARD_IMAGES: dict[tuple[str, str], str] = {
     ('rizza', 'punkthed'): 'assets/phunkted.png',
     ('rizza', 'void'): 'assets/void.jpg',
     ('rizza', 'Quinn'): 'assets/queen.jpg',
+    ('rizza', 'lifeilive'): 'assets/livealife.png',
     ('Sqwore, rizza', 'Плачь'): 'assets/plach.png',
     ('Sqwore, rizza', 'Холодное оружие'): 'assets/holodgun.png',
     ('17 SEVENTEEN', 'Поцелуи между барами'): 'assets/pochelui.png',
